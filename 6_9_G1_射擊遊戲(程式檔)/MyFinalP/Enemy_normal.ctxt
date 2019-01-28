@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy_normal
+comment1.params=
+comment1.target=Enemy_normal()
+comment2.params=g
+comment2.target=void\ display(java.awt.Graphics)
+comment3.params=p
+comment3.target=void\ shoot(MyFinalP.Player)
+comment4.params=t
+comment4.target=void\ CantAttack(boolean)
+comment5.params=p
+comment5.target=void\ plane_crash(MyFinalP.Player)
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Clip
+comment1.params=
+comment1.target=void\ reset_bullet()
+comment2.params=
+comment2.target=void\ add_bullet()
+comment3.params=
+comment3.target=void\ get_bullet()
+comment4.params=
+comment4.target=boolean\ check_bullet()
+comment5.params=t
+comment5.target=void\ set_bullet_speed_count(double)
+comment6.params=
+comment6.target=double\ get_bullet_speed_count()
+comment7.params=t
+comment7.target=void\ set_bullet_list_MAX(int)
+comment8.params=
+comment8.target=int\ get_bullet_list_MAX()
+comment9.params=
+comment9.target=java.util.ArrayList\ get_bullet_list()
+numComments=10

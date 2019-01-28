@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Boom
+comment1.params=w\ h
+comment1.target=Boom(int,\ int)
+comment2.params=g
+comment2.target=void\ display(java.awt.Graphics)
+comment3.params=p
+comment3.target=void\ Specialtoplane(MyFinalP.Player)
+numComments=4

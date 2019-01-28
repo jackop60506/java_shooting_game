@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=View
+comment1.params=c
+comment1.target=View(MyFinalP.Controller)
+comment2.params=
+comment2.target=void\ refresh()
+comment3.params=x
+comment3.target=void\ setdelay(int)
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Boss
+comment1.params=
+comment1.target=Boss()
+comment2.params=g
+comment2.target=void\ display(java.awt.Graphics)
+comment3.params=p\ tag
+comment3.target=void\ shoot(MyFinalP.Player,\ int)
+comment4.params=tag\ s_angle
+comment4.target=void\ shoot(int,\ double)
+comment5.params=
+comment5.target=void\ gethurt()
+comment6.params=t
+comment6.target=void\ CantAttack(boolean)
+comment7.params=p
+comment7.target=void\ plane_crash(MyFinalP.Player)
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Plane_skill
+comment1.params=k
+comment1.target=Plane_skill(int)
+comment2.params=
+comment2.target=int\ getKey()
+numComments=3

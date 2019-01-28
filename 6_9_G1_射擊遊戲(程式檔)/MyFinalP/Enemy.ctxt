@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=
+comment1.target=void\ moveX()
+comment2.params=
+comment2.target=void\ moveY()
+comment3.params=
+comment3.target=void\ EnemyBulletCDClear()
+comment4.params=
+comment4.target=void\ gethurt()
+comment5.params=
+comment5.target=boolean\ planeState()
+numComments=6

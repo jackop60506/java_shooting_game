@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Shadow
+comment1.params=W\ H\ XX\ YY\ i
+comment1.target=Shadow(double,\ double,\ double,\ double,\ java.awt.Image)
+comment2.params=g
+comment2.target=void\ display(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ moveX()
+comment4.params=
+comment4.target=void\ moveY()
+numComments=5

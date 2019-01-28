@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bullet_Rocket_Enemy
+comment1.params=
+comment1.target=Bullet_Rocket_Enemy()
+comment2.params=g
+comment2.target=void\ display(java.awt.Graphics)
+comment3.params=
+comment3.target=void\ moveX()
+comment4.params=
+comment4.target=void\ moveY()
+numComments=5

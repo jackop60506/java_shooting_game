@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Role
+comment1.params=g
+comment1.target=void\ display(java.awt.Graphics)
+comment2.params=
+comment2.target=MyFinalP.Model\ getItemState()
+comment3.params=s
+comment3.target=void\ changeState(java.lang.String)
+comment4.params=x\ y\ px\ py
+comment4.target=double\ get_Angle(double,\ double,\ double,\ double)
+comment5.params=
+comment5.target=void\ moveX()
+comment6.params=
+comment6.target=void\ moveY()
+comment7.params=
+comment7.target=int\ getlife()
+comment8.params=
+comment8.target=void\ gethurt()
+numComments=9

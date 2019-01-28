@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Special_affect
+comment1.params=
+comment1.target=Special_affect()
+comment2.params=p\ s\ speed
+comment2.target=void\ shadow(MyFinalP.Player,\ MyFinalP.Shadow,\ double)
+comment3.params=p\ s\ speed
+comment3.target=void\ shadow(MyFinalP.Boss2,\ MyFinalP.Shadow,\ double)
+comment4.params=model
+comment4.target=void\ Useshadow(MyFinalP.Model)
+comment5.params=model\ angle
+comment5.target=void\ Useshadow(MyFinalP.Model,\ double)
+comment6.params=model
+comment6.target=void\ Stopshadow(MyFinalP.Model)
+comment7.params=x\ y\ px\ py
+comment7.target=double\ get_Angle(double,\ double,\ double,\ double)
+numComments=8

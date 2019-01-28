@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Stage_1
+comment1.params=ai\ ft\ p\ enl\ enr\ ens\ boss
+comment1.target=Stage_1(MyFinalP.AImanage,\ MyFinalP.Flying_type,\ MyFinalP.Player,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ MyFinalP.Boss)
+comment2.params=e\ tag
+comment2.target=MyFinalP.Item\ Itemchoose(MyFinalP.Enemy,\ double)
+comment3.params=a
+comment3.target=void\ setProgress1(int)
+comment4.params=b
+comment4.target=void\ setProgress2(int)
+comment5.params=
+comment5.target=boolean\ Boss1_Stage()
+comment6.params=
+comment6.target=boolean\ Stage_Start()
+comment7.params=t
+comment7.target=void\ setStagecheck(boolean)
+comment8.params=
+comment8.target=void\ Stageclear()
+numComments=9

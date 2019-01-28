@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Flying_type
+comment1.params=a
+comment1.target=Flying_type(MyFinalP.AImanage)
+comment10.params=e
+comment10.target=void\ Enemy_flytoplayer(MyFinalP.Enemy)
+comment2.params=e
+comment2.target=void\ Enemy_rect_move(MyFinalP.Enemy)
+comment3.params=e\ angle\ dir
+comment3.target=void\ Enemy_s_move_normal(MyFinalP.Enemy,\ double,\ double)
+comment4.params=e\ angle\ dir
+comment4.target=void\ enemy_enter(MyFinalP.Enemy,\ double,\ double)
+comment5.params=e\ angle\ dir
+comment5.target=void\ Enemy_s_move_special(MyFinalP.Enemy,\ double,\ double)
+comment6.params=e\ angle\ dir
+comment6.target=void\ Enemy_ss_move_special(MyFinalP.Enemy,\ double,\ double)
+comment7.params=e\ angle\ dir\ circular
+comment7.target=void\ Enemy_U_move(MyFinalP.Enemy,\ double,\ double,\ int)
+comment8.params=e
+comment8.target=void\ Enemy_slow_LR_move(MyFinalP.Enemy)
+comment9.params=e
+comment9.target=void\ Enemy_fast_LR_move(MyFinalP.Enemy)
+numComments=11

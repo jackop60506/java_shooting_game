@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Stage
+comment1.params=ai\ ft\ p\ enl\ enr\ ens\ boss
+comment1.target=Stage(MyFinalP.AImanage,\ MyFinalP.Flying_type,\ MyFinalP.Player,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ MyFinalP.Boss)
+comment10.params=
+comment10.target=boolean\ Move_S_Stage()
+comment11.params=circular
+comment11.target=boolean\ Move_U_Stage(int)
+comment2.params=ai\ ft\ p\ enl\ enr\ ens\ boss
+comment2.target=Stage(MyFinalP.AImanage,\ MyFinalP.Flying_type,\ MyFinalP.Player,\ java.util.ArrayList,\ java.util.ArrayList,\ java.util.ArrayList,\ MyFinalP.Boss2)
+comment3.params=
+comment3.target=double\ Shoot_life()
+comment4.params=
+comment4.target=double\ Boss_life_plus()
+comment5.params=tag
+comment5.target=boolean\ Every_enemy_prepare(java.lang.String)
+comment6.params=
+comment6.target=boolean\ Enemytoplayer_Stage()
+comment7.params=
+comment7.target=boolean\ Enemy_position_s_Stage()
+comment8.params=
+comment8.target=boolean\ Straight_s_Stage()
+comment9.params=
+comment9.target=boolean\ Straight_Stage()
+numComments=12

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=p
+comment1.target=boolean\ Item_crash(MyFinalP.Player)
+comment2.params=g
+comment2.target=void\ display(java.awt.Graphics)
+comment3.params=p
+comment3.target=void\ Specialtoplane(MyFinalP.Player)
+comment4.params=
+comment4.target=void\ moveX()
+comment5.params=
+comment5.target=void\ moveY()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ImageSequence_plane
+comment1.params=
+comment1.target=ImageSequence_plane()
+comment2.params=i
+comment2.target=java.awt.Image\ getImage(int)
+comment3.params=i
+comment3.target=java.awt.Image\ planegetImage(int)
+comment4.params=
+comment4.target=java.awt.Image\ nextImage()
+comment5.params=
+comment5.target=java.awt.Image\ PlanenextImage()
+numComments=6

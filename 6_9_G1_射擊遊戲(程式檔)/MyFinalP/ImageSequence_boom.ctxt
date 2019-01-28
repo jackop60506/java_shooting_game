@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ImageSequence_boom
+comment1.params=
+comment1.target=ImageSequence_boom()
+comment2.params=s
+comment2.target=void\ setIndex(int)
+comment3.params=i
+comment3.target=java.awt.Image\ getBoomImage(int)
+comment4.params=
+comment4.target=java.awt.Image\ nextBoomImage()
+numComments=5
